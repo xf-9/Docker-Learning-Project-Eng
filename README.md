@@ -1,7 +1,7 @@
 # Docker Learning Project
 ---
-## 这是一个 Docker Learning Project
-该项目的目的是学习Docker的基本知识、如何使用Docker容器来运行MongoDB及其管理界面MongoDB Express、以及如何使用Docker Compose来管理多容器应用。 详细教程请查看 Docker Learning Project.mb
+## This is a Docker Learning Project
+The purpose of this project is to learn the fundamentals of Docker, how to use Docker containers to run MongoDB and its management interface MongoDB Express, as well as how to use Docker Compose to manage multi-container applications.
 
 ---
 
